@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_1" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 283.46 141.73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b1c7a5;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-6 {
+        fill: #b7b6b6;
+        font-family: OpenSans, 'Open Sans';
+      }
+
+      .cls-6, .cls-7 {
+        font-size: 62.6px;
+      }
+
+      .cls-7 {
+        fill: #fff;
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #186736;
+      }
+
+      .cls-3 {
+        fill: #194c31;
+      }
+
+      .cls-4 {
+        fill: #87ac7b;
+      }
+
+      .cls-5 {
+        fill: #028137;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="67.14" y="25.14" width="51.08" height="84.36" rx="9.29" ry="9.29"/>
+  <g>
+    <rect class="cls-3" x="10.79" y="33.29" width="51.08" height="69.13" rx="8.41" ry="8.41"/>
+    <text class="cls-6" transform="translate(16.52 89.57)"><tspan x="0" y="0">A</tspan></text>
+  </g>
+  <text class="cls-7" transform="translate(71.58 88.57)"><tspan x="0" y="0">B</tspan></text>
+  <rect class="cls-5" x="122.23" y="33.04" width="51.08" height="69.13" rx="8.41" ry="8.41"/>
+  <rect class="cls-4" x="173.16" y="33.04" width="51.08" height="69.13" rx="8.41" ry="8.41"/>
+  <text class="cls-6" transform="translate(126.13 89.33)"><tspan x="0" y="0">C</tspan></text>
+  <text class="cls-6" transform="translate(176.16 89.33)"><tspan x="0" y="0">D</tspan></text>
+  <g>
+    <rect class="cls-1" x="224.09" y="33.04" width="51.08" height="69.13" rx="8.41" ry="8.41"/>
+    <text class="cls-6" transform="translate(232.22 89.33)"><tspan x="0" y="0">E</tspan></text>
+  </g>
+</svg>
